@@ -3,7 +3,7 @@
 // c: change In value
 // d: duration
 
-var Easing = {
+var Easy = {
     easeInQuad: function (t, b, c, d) {
         return c*(t/=d)*t + b;
     },
@@ -130,4 +130,4 @@ var Easing = {
     }
 };
 
-module.exports = Easing;
+module.exports = Easy;

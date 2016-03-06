@@ -1,6 +1,6 @@
 {
-  "name": "jlib",
-  "version": "1.0.0",
+  "name": "jlibmicro",
+  "version": "1.0.1",
   "description": "A modular micro library for common actions",
   "devDependencies": {
     "gulp": "^3.9.1",

@@ -16,7 +16,7 @@ gulp.task('lint', function() {
 
 gulp.task('scripts', ['lint'], function() {
     // Single entry point to browserify
-    gulp.src('./src/**/*.js')
+    gulp.src('./src/jlibmicro.js')
         .pipe(browserify({
             insertGlobals : true,
             debug : !gulp.env.production
