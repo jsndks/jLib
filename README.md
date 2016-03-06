@@ -1,6 +1,6 @@
 # jLib
 
-> !!!description here!!!
+> A modular micro library for common actions
 
 ## License
 
