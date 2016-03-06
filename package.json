@@ -1,0 +1,17 @@
+{
+  "name": "jlib",
+  "version": "1.0.0",
+  "description": "A modular micro library for common actions",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "del": "^2.2.0",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.9.1",
+    "gulp-browserify": "^0.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Dicks",
+  "license": "ISC"
+}
