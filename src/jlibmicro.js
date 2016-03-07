@@ -1,5 +1,4 @@
 var Easy = require('./easy/easy');
-
-var jlibmicro = function() {};
+var Animate = require('./animate/animate');
 
 module.exports = jlibmicro;
